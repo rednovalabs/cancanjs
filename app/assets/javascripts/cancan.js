@@ -43,6 +43,6 @@ CanCanJs.prototype.cannot = function(action, subject) {
     return !this.can(action, subject);
 };
 
-if (typeof(module) !== undefined) {
+if (typeof(module) !== "undefined") {
     module.exports = CanCanJs;
 }
