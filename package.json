@@ -1,0 +1,22 @@
+{
+  "name": "cancanjs",
+  "version": "1.0.0",
+  "description": "Apply CanCan rules in JS",
+  "main": "cancan.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rednovalabs/cancanjs.git"
+  },
+  "author": "Eric Hankins <ehankins@rednovalabs.com>",
+  "bugs": {
+    "url": "https://github.com/rednovalabs/cancanjs/issues"
+  },
+  "homepage": "https://github.com/rednovalabs/cancanjs#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cancan"
+  ],
+  "license": "ISC"
+}
