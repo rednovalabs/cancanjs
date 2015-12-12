@@ -2,7 +2,7 @@
   "name": "cancanjs",
   "version": "1.0.0",
   "description": "Apply CanCan rules in JS",
-  "main": "app/assets/javascriptscancan.js",
+  "main": "app/assets/javascripts/cancan.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/rednovalabs/cancanjs.git"
